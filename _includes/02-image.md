@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Mona](https://static.wikia.nocookie.net/megamitensei/images/3/33/MorganaPQ2.png)
